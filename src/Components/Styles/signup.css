@@ -1,0 +1,31 @@
+.signupBox{
+    margin: auto;
+    margin-top: 5%;
+}
+.signUpHeading{
+    margin-bottom: 3%;
+}
+.signUpImg{
+    height: 400px;
+    margin-left: 8%;
+    width: 80%;
+}
+.joinUsText{
+    text-align: justify;
+    margin-top: 4%;
+}
+.inputBox{
+    width: 90%;
+}
+.mybtn{
+    width: 100%;
+    margin: auto;
+    margin-top: 2%;
+    margin-left: -1%;
+}
+
+.AboutUsImg{
+    height: 500px;
+    margin-left: 12%;
+    width: 80%;
+}

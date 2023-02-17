@@ -1,0 +1,44 @@
+.cardContainer{
+    margin-top: 3%;
+}
+.trendingHeading{
+    margin-left: 1%;
+    margin-bottom: 4%;
+    margin-top: 6%;
+}
+.singleCard{
+    margin-bottom: 3%;
+}
+.actualCard{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.zoom {
+    transition: transform .2s; /* Animation */
+  }
+  
+  .zoom:hover {
+    transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+.cardImg{
+    height: 300px;
+}
+.picture{
+    width: 100%;
+    margin-top: 6%;
+}
+
+.footer{
+    height: 200px;
+    background-color: black;
+    margin-top: 5%;
+}
+.mybtn{
+    margin: auto;
+    margin-left: 5%;
+}
+.card-title {
+    margin-bottom: 0%;
+}
+.card-text{
+    margin-bottom: 3%;
+}
